@@ -1,0 +1,23 @@
+ATTEMPT #6 - HYPOTHESIS (written before results)
+================================================
+Asymmetric learning rates:
+- N2 (Brain): 0.05 (fast)
+- N1 (Body): 0.002 (slow, 25x slower than N2)
+
+PREDICTION:
+1. Early phase: Performance may go backwards or stay flat
+   - N2 is rapidly learning but unstable
+   - N1 is barely moving (too slow to follow yet)
+   - Random or degraded behavior expected
+
+2. Middle phase: N2 stabilizes
+   - N2 has seen enough physics to understand
+   - N2's output becomes consistent
+   - N1 still catching up
+
+3. Late phase: N1 follows stable N2
+   - N1 gradually forms habits from N2's stable guidance
+   - Consistent improvement expected
+   - Should see rolling average climb steadily
+
+The key: the brain needs a good foundation before the body can learn from it.
